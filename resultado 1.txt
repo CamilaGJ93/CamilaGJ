@@ -1,0 +1,12 @@
+﻿
+Palavra	﻿num		nao reconhecida
+Palavra	Digite		nao reconhecida
+Palavra	número		nao reconhecida
+Palavra	O		nao reconhecida
+Palavra	é		nao reconhecida
+Palavra	número		nao reconhecida
+Palavra	O		nao reconhecida
+Palavra	NÃO		nao reconhecida
+Palavra	é		nao reconhecida
+Palavra	número		nao reconhecida
+ O arquivo  C:\Users\Camila Gois\Desktop\Trabalhos\TEORIA DA COMPUTAÇÃO\ArquivoFonte01.txt contem erro(s) 
